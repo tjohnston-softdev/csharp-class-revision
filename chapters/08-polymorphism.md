@@ -6,7 +6,7 @@ BODY
 
 ---
 
-**Previous:** [PREVIOUS](./07-inheritance.md)  
-**Next:** [NEXT](./09-abstraction.md)
+**Previous:** [Inheritance](./07-inheritance.md)  
+**Next:** [Abstraction](./09-abstraction.md)
 
 [Contents](./readme.md)

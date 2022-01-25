@@ -6,7 +6,7 @@ BODY
 
 ---
 
-**Previous:** [PREVIOUS](./10-interfaces.md)  
+**Previous:** [Interfaces](./10-interfaces.md)  
 **Next:**
 
 [Contents](./readme.md)

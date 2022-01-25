@@ -6,7 +6,7 @@ BODY
 
 ---
 
-**Previous:** [PREVIOUS](./05-access.md)  
-**Next:** [NEXT](./07-inheritance.md)
+**Previous:** [Access Modifiers](./05-access.md)  
+**Next:** [Inheritance](./07-inheritance.md)
 
 [Contents](./readme.md)

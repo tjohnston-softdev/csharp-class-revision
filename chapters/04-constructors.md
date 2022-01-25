@@ -6,7 +6,7 @@ BODY
 
 ---
 
-**Previous:** [PREVIOUS](./03-members.md)  
-**Next:** [NEXT](./05-access.md)
+**Previous:** [Class Members](./03-members.md)  
+**Next:** [Access Modifiers](./05-access.md)
 
 [Contents](./readme.md)

@@ -6,7 +6,7 @@ BODY
 
 ---
 
-**Previous:** [PREVIOUS](./02-classes_objects.md)  
-**Next:** [NEXT](./04-constructors.md)
+**Previous:** [Classes and Objects](./02-classes_objects.md)  
+**Next:** [Constructors](./04-constructors.md)
 
 [Contents](./readme.md)

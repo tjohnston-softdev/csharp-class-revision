@@ -6,7 +6,7 @@ BODY
 
 ---
 
-**Previous:** [PREVIOUS](./06-properties.md)  
-**Next:** [NEXT](./08-polymorphism.md)
+**Previous:** [Properties](./06-properties.md)  
+**Next:** [Polymorphism](./08-polymorphism.md)
 
 [Contents](./readme.md)

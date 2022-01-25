@@ -6,7 +6,7 @@ BODY
 
 ---
 
-**Previous:** [PREVIOUS](./04-members.md)  
-**Next:** [NEXT](./06-properties.md)
+**Previous:** [Constructors](./04-constructors.md)  
+**Next:** [Properties](./06-properties.md)
 
 [Contents](./readme.md)

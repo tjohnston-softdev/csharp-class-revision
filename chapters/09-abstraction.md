@@ -6,7 +6,7 @@ BODY
 
 ---
 
-**Previous:** [PREVIOUS](./08-polymorphism.md)  
-**Next:** [NEXT](./10-interfaces.md)
+**Previous:** [Polymorphism](./08-polymorphism.md)  
+**Next:** [Interfaces](./10-interfaces.md)
 
 [Contents](./readme.md)
