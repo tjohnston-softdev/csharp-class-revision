@@ -30,7 +30,3 @@ This repository is licensed under CC0 1.0 Universal. These study notes are based
 I wrote these notes for myself as part of my own self-learning and, as such, may not be useful for everybody. Since all of the notes are derived from the W3Schools tutorial, it was unnecessary to cite individual pages. The basic structure and content is similar enough that cross-referencing shouldn't be difficult.
 
 As mentioned, I wrote these notes for myself and are by no means perfect. I will not be actively maintaining this repository but I will consider revising things if I feel the overwhelming need to do so. Since this is licensed under CC0 and I claim no copyright, you may do whatever you want with it.
-
----
-
-**PRIVATE**
